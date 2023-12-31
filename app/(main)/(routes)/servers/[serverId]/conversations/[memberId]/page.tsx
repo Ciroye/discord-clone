@@ -1,3 +1,5 @@
+"use client"
+
 import { redirectToSignIn } from "@clerk/nextjs";
 import { redirect } from "next/navigation";
 
